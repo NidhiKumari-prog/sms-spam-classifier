@@ -1,7 +1,0 @@
-git clone https://github.com/username/repo-name.git
-cd repo-name
-git rm path/to/your/file.txt
-git commit -m "Deleted file.txt"
-git push origin main
-
-
